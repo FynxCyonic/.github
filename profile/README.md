@@ -33,9 +33,9 @@
 <p align="center">
   <a href="https://github.com/FynxCyonic/FynxCyonic">Source 💿</a>
   •
-  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribute ☕
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/contribute.md">Contribute ☕</a>
   •
-  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚
+  <a href="https://github.com/FynxCyonic/FynxCyonic/blob/stable/readme.md">Go back to Wiki 📚</a>
   •
   <a href="https://github.com/worbadillitics/">Developed by Myru' 🎈
   </a>
